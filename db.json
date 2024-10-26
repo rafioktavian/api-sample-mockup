@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World" },
+    { "id": 2, "title": "Rafi Oktavian" }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "body": "Nice post!" },
+    { "id": 2, "postId": 2, "body": "Thanks for sharing!" }
+  ]
+}
