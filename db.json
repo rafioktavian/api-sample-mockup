@@ -1,5 +1,5 @@
 {
-  "products": [
+  "products":
     {
       "status": true,
       "message": "Success Get Products",
@@ -76,5 +76,4 @@
           }
       }
     }
-  ]
 }
