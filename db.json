@@ -121,6 +121,19 @@
           "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg"
         },
         {
+          "id": 3,
+          "title": "PARLE Milano Chocolate Chip Cookies",
+          "slug": "parle-milano-chocolate-chip-cookies",
+          "cover": "https://box.samplrr.in/wp-content/uploads/2022/01/Artboard-9.png",
+          "price": 10000,
+          "discount": null,
+          "rating": "3.5",
+          "category_name": "Snacks & Beverages",
+          "category_slug": "snacks-beverages",
+          "seller_name": "Jane Smith",
+          "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-5.jpg"
+        },
+        {
           "id": 5,
           "title": "Assorted Premium Instant Coffee",
           "slug": "plum-bodylovin-caramel-popcorn-body-wash",
@@ -164,6 +177,19 @@
           "category_slug": "snacks-beverages",
           "seller_name": "Jane Smith",
           "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-5.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Assorted Premium Instant Coffee",
+          "slug": "plum-bodylovin-caramel-popcorn-body-wash",
+          "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
+          "price": 70000,
+          "discount": null,
+          "rating": "4.5",
+          "category_name": "Snacks & Beverages",
+          "category_slug": "snacks-beverages",
+          "seller_name": "Anggara Sutisna",
+          "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg"
         },
         {
           "id": 2,
@@ -235,6 +261,18 @@
           "category_slug": "interior",
           "seller_name": "John Doe",
           "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-1.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Assorted Premium Instant Coffee",
+          "slug": "plum-bodylovin-caramel-popcorn-body-wash",
+          "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
+          "price": 70000,
+          "discount": 45000,
+          "rating": "5.0",
+          "category_name": "Snacks & Beverages",
+          "category_slug": "snacks-beverages",
+          "seller_name": "Anggara Sutisna"
         }
       ]
     }
