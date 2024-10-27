@@ -96,182 +96,104 @@
   },
   {
     "banners": [
-        {
-            "id": 2,
-            "image_url": "https://evermos.com/home/wp-content/uploads/2024/10/Emas.png",
-            "image_url_path": "/banners/banner-2.jpg",
-            "image_mobile_url": "https://evermos.com/home/wp-content/uploads/2024/10/Emas.png",
-            "image_mobile_path": "/banners/banner-2.jpg",
-            "cta_url": "/",
-            "sort": 1
-        },
-        {
-            "id": 5,
-            "image_url": "https://evermos.com/home/wp-content/uploads/2024/10/Reseller-Special-Day-live.png",
-            "image_url_path": "/banners/banner-5.jpg",
-            "image_mobile_url": "https://evermos.com/home/wp-content/uploads/2024/10/Reseller-Special-Day-live.png",
-            "image_mobile_path": "/banners/banner-5.jpg",
-            "cta_url": "/",
-            "sort": 3
-        },
-        {
-            "id": 4,
-            "image_url": "https://evermos.com/home/wp-content/uploads/2024/10/Kesamber.jpg",
-            "image_url_path": "/banners/banner-4.jpg",
-            "image_mobile_url": "https://evermos.com/home/wp-content/uploads/2024/10/Kesamber.jpg",
-            "image_mobile_path": "/banners/banner-4.jpg",
-            "cta_url": "/",
-            "sort": 4
-        },
-        {
-            "id": 3,
-            "image_url": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/10/24/152366d1-a4bc-4108-b0f5-fb5492b2f3cf.jpg.webp?ect=4g",
-            "image_url_path": "/banners/banner-3.jpg",
-            "image_mobile_url": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/10/24/152366d1-a4bc-4108-b0f5-fb5492b2f3cf.jpg.webp?ect=4g",
-            "image_mobile_path": "/banners/banner-3.jpg",
-            "cta_url": "/",
-            "sort": 5
-        }
+      {
+        "id": 2,
+        "image_url": "https://evermos.com/home/wp-content/uploads/2024/10/Emas.png",
+        "cta_url": "/",
+        "sort": 1
+      },
+      {
+          "id": 5,
+          "image_url": "https://evermos.com/home/wp-content/uploads/2024/10/Reseller-Special-Day-live.png",
+          "cta_url": "/",
+          "sort": 3
+      },
+      {
+          "id": 4,
+          "image_url": "https://evermos.com/home/wp-content/uploads/2024/10/Kesamber.jpg",
+          "cta_url": "/",
+          "sort": 4
+      },
+      {
+          "id": 3,
+          "image_url": "https://images.tokopedia.net/img/cache/1208/NsjrJu/2024/10/24/152366d1-a4bc-4108-b0f5-fb5492b2f3cf.jpg.webp?ect=4g",
+          "cta_url": "/",
+          "sort": 5
+      }
     ]
   },
   {
     "home_section": [
-        {
-          "section_name": "Recomended For You",
-          "section_slug": "recomended-for-you",
-          "programs": [
-            {
-              "id": 4,
-              "title": "Assorted Premium Instant Coffee",
-              "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
-              "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
-              "price": 70000,
-              "discount_price": null,
-              "program_rating": "0.0",
-              "category_name": "Snacks & Beverages",
-              "category_slug": "snacks-beverages",
-              "seller_name": "Anggara Sutisna",
-              "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg",
-              "seller_rating": "4.5",
-              "status": 1
-            },
-            {
-              "id": 5,
-              "title": "Assorted Premium Instant Coffee",
-              "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
-              "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
-              "price": 70000,
-              "discount_price": null,
-              "program_rating": "0.0",
-              "category_name": "Snacks & Beverages",
-              "category_slug": "snacks-beverages",
-              "seller_name": "Anggara Sutisna",
-              "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg",
-              "seller_rating": "4.5",
-              "status": 1
-            },
-            {
-              "id": 6,
-              "title": "Baby Blue/Light Grey Cushion",
-              "program_slug": "baby-blue-light-grey-cushion",
-              "cover": "https://sullahome.com/wp-content/uploads/2022/06/Artboard-24-1536x1536.png",
-              "price": 150000,
-              "discount_price": null,
-              "program_rating": "0.0",
-              "category_name": "Interior",
-              "category_slug": "interior",
-              "seller_name": "John Doe",
-              "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-1.jpg",
-              "seller_rating": "4.7",
-              "status": 1
-            },
-            {
-              "id": 2,
-              "title": "Plum BodyLovin’ Caramel Popcorn Body Wash",
-              "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
-              "cover": "https://box.samplrr.in/wp-content/uploads/2022/06/Artboard-12.png",
-              "price": 60000,
-              "discount_price": null,
-              "program_rating": "0.0",
-              "category_name": "Personal Care",
-              "category_slug": "personal-care",
-              "seller_name": "Stella Weni",
-              "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-6.jpg",
-              "seller_rating": "4.5",
-              "status": 1
-            }
-          ]
-        },
-        {
-            "section_name": "Top Class",
-            "section_slug": "top-class",
-            "programs": [
-              {
-                "id": 1,
-                "title": "Banana Choco Chip Millet Pancake",
-                "program_slug": "banana-choco-chip-millet-pancake",
-                "cover": "https://box.samplrr.in/wp-content/uploads/2022/01/Artboard-11.png",
-                "price": 20000,
-                "discount_price": null,
-                "program_rating": "0.0",
-                "category_name": "Snacks & Beverages",
-                "category_slug": "snacks-beverages",
-                "seller_name": "Jane Smith",
-                "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-5.jpg",
-                "seller_rating": "2.5",
-                "status": 1
-              },
-              {
-                "id": 2,
-                "title": "Plum BodyLovin’ Caramel Popcorn Body Wash",
-                "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
-                "cover": "https://box.samplrr.in/wp-content/uploads/2022/06/Artboard-12.png",
-                "price": 60000,
-                "discount_price": null,
-                "program_rating": "0.0",
-                "category_name": "Personal Care",
-                "category_slug": "personal-care",
-                "seller_name": "Stella Weni",
-                "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-6.jpg",
-                "seller_rating": "4.5",
-                "status": 1
-              },
-              {
-                "id": 3,
-                "title": "PARLE Milano Chocolate Chip Cookies",
-                "program_slug": "parle-milano-chocolate-chip-cookies",
-                "cover": "https://box.samplrr.in/wp-content/uploads/2022/01/Artboard-9.png",
-                "price": 10000,
-                "discount_price": null,
-                "program_rating": "0.0",
-                "category_name": "Snacks & Beverages",
-                "category_slug": "snacks-beverages",
-                "seller_name": "Jane Smith",
-                "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-5.jpg",
-                "seller_rating": "2.5",
-                "status": 1
-              },
-              {
-                "id": 4,
-                "title": "Assorted Premium Instant Coffee",
-                "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
-                "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
-                "price": 70000,
-                "discount_price": null,
-                "program_rating": "0.0",
-                "category_name": "Snacks & Beverages",
-                "category_slug": "snacks-beverages",
-                "seller_name": "Anggara Sutisna",
-                "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg",
-                "seller_rating": "4.5",
-                "status": 1
-              }
-            ]
-        },
-        {
-          "section_name": "Trending",
-          "section_slug": "trending",
-          "programs": [
+      {
+        "section_name": "Recomended For You",
+        "section_slug": "recomended-for-you",
+        "products": [
+          {
+            "id": 4,
+            "title": "Assorted Premium Instant Coffee",
+            "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
+            "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
+            "price": 70000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Snacks & Beverages",
+            "category_slug": "snacks-beverages",
+            "seller_name": "Anggara Sutisna",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg",
+            "seller_rating": "4.5",
+            "status": 1
+          },
+          {
+            "id": 5,
+            "title": "Assorted Premium Instant Coffee",
+            "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
+            "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
+            "price": 70000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Snacks & Beverages",
+            "category_slug": "snacks-beverages",
+            "seller_name": "Anggara Sutisna",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg",
+            "seller_rating": "4.5",
+            "status": 1
+          },
+          {
+            "id": 6,
+            "title": "Baby Blue/Light Grey Cushion",
+            "program_slug": "baby-blue-light-grey-cushion",
+            "cover": "https://sullahome.com/wp-content/uploads/2022/06/Artboard-24-1536x1536.png",
+            "price": 150000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Interior",
+            "category_slug": "interior",
+            "seller_name": "John Doe",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-1.jpg",
+            "seller_rating": "4.7",
+            "status": 1
+          },
+          {
+            "id": 2,
+            "title": "Plum BodyLovin’ Caramel Popcorn Body Wash",
+            "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
+            "cover": "https://box.samplrr.in/wp-content/uploads/2022/06/Artboard-12.png",
+            "price": 60000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Personal Care",
+            "category_slug": "personal-care",
+            "seller_name": "Stella Weni",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-6.jpg",
+            "seller_rating": "4.5",
+            "status": 1
+          }
+        ]
+      },
+      {
+          "section_name": "Top Class",
+          "section_slug": "top-class",
+          "products": [
             {
               "id": 1,
               "title": "Banana Choco Chip Millet Pancake",
@@ -303,7 +225,22 @@
               "status": 1
             },
             {
-              "id": 5,
+              "id": 3,
+              "title": "PARLE Milano Chocolate Chip Cookies",
+              "program_slug": "parle-milano-chocolate-chip-cookies",
+              "cover": "https://box.samplrr.in/wp-content/uploads/2022/01/Artboard-9.png",
+              "price": 10000,
+              "discount_price": null,
+              "program_rating": "0.0",
+              "category_name": "Snacks & Beverages",
+              "category_slug": "snacks-beverages",
+              "seller_name": "Jane Smith",
+              "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-5.jpg",
+              "seller_rating": "2.5",
+              "status": 1
+            },
+            {
+              "id": 4,
               "title": "Assorted Premium Instant Coffee",
               "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
               "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
@@ -316,24 +253,75 @@
               "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg",
               "seller_rating": "4.5",
               "status": 1
-            },
-            {
-              "id": 6,
-              "title": "Baby Blue/Light Grey Cushion",
-              "program_slug": "baby-blue-light-grey-cushion",
-              "cover": "https://sullahome.com/wp-content/uploads/2022/06/Artboard-24-1536x1536.png",
-              "price": 150000,
-              "discount_price": null,
-              "program_rating": "0.0",
-              "category_name": "Interior",
-              "category_slug": "interior",
-              "seller_name": "John Doe",
-              "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-1.jpg",
-              "seller_rating": "4.7",
-              "status": 1
             }
           ]
-        }
+      },
+      {
+        "section_name": "Trending",
+        "section_slug": "trending",
+        "products": [
+          {
+            "id": 1,
+            "title": "Banana Choco Chip Millet Pancake",
+            "program_slug": "banana-choco-chip-millet-pancake",
+            "cover": "https://box.samplrr.in/wp-content/uploads/2022/01/Artboard-11.png",
+            "price": 20000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Snacks & Beverages",
+            "category_slug": "snacks-beverages",
+            "seller_name": "Jane Smith",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-5.jpg",
+            "seller_rating": "2.5",
+            "status": 1
+          },
+          {
+            "id": 2,
+            "title": "Plum BodyLovin’ Caramel Popcorn Body Wash",
+            "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
+            "cover": "https://box.samplrr.in/wp-content/uploads/2022/06/Artboard-12.png",
+            "price": 60000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Personal Care",
+            "category_slug": "personal-care",
+            "seller_name": "Stella Weni",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-6.jpg",
+            "seller_rating": "4.5",
+            "status": 1
+          },
+          {
+            "id": 5,
+            "title": "Assorted Premium Instant Coffee",
+            "program_slug": "plum-bodylovin-caramel-popcorn-body-wash",
+            "cover": "https://box.samplrr.in/wp-content/uploads/2022/05/Artboard-10.png",
+            "price": 70000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Snacks & Beverages",
+            "category_slug": "snacks-beverages",
+            "seller_name": "Anggara Sutisna",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg",
+            "seller_rating": "4.5",
+            "status": 1
+          },
+          {
+            "id": 6,
+            "title": "Baby Blue/Light Grey Cushion",
+            "program_slug": "baby-blue-light-grey-cushion",
+            "cover": "https://sullahome.com/wp-content/uploads/2022/06/Artboard-24-1536x1536.png",
+            "price": 150000,
+            "discount_price": null,
+            "program_rating": "0.0",
+            "category_name": "Interior",
+            "category_slug": "interior",
+            "seller_name": "John Doe",
+            "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-1.jpg",
+            "seller_rating": "4.7",
+            "status": 1
+          }
+        ]
+      }
     ]
   },
   {
