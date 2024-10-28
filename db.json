@@ -51,7 +51,8 @@
         "rating": "5.0",
         "category_name": "Snacks & Beverages",
         "category_slug": "snacks-beverages",
-        "seller_name": "Anggara Sutisna"
+        "seller_name": "Anggara Sutisna",
+        "seller_pict": "https://space.adaide.co.id/sbp/profiles/image-3.jpg"
       },
       {
         "id": 5,
